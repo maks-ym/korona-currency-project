@@ -1,14 +1,14 @@
-### [Polish] Raport
+# [Polish] Raport
 
 > Kurs Korona Science - Praca domowa nr 3
 
-#### Cel
+## Cel
 
 Celem raportu jest sprawdzenie zależności pomiędzy średnim międzybankowym kursem
 wybranych walut (USD, EUR, PLN) w stosunku do hrywny ukraińskiej na podstawie danych
 Narodowego Banku Ukrainy i danych dotyczących Covid-19 używanych na zajęciach.
 
-#### Przeprowadzenie analizy
+## Przeprowadzenie analizy
 
 Zestawiono równolegle dane dotyczące rozwoju epidemii Covid-19 na świecie i średniego kursu
 wybranych walut, aby znaleźć korelację między nimi. Przewiduje się, że kurs USD, EUR
@@ -16,7 +16,7 @@ i PLN wzrosły wraz z rozwojem epidemii z powodu wahań na światowych giełdach
 kryzysem gospodarczym. Na osi x widoczna jest liczba dni od wykrycia pierwszego przypadku na
 świecie. Dane sięgają od 22 stycznia do 17 marca 2020 roku.
 
-#### Wnioski
+## Wnioski
 
 Wbrew poczynionym założeniom nie wykazano, że istnieje korelacja między rozwojem epidemii
 Covid-19 na świecie a kursami walut na Ukrainie. Na kursy walut ma wpływ znacznie więcej
