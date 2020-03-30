@@ -2,7 +2,7 @@
 
 > Short project to compare situation with Coronavirus epidemy and currency rates in Ukraine
 
-### Code
+### Code & Plots
 
 * [Jupyter Notebook](https://github.com/maks-ym/korona-currency-project/blob/master/project_currencies.ipynb)
 
