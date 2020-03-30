@@ -1,6 +1,6 @@
 # korona-currency-project
 
-> Short project to compare situation with Koronavirus epidemy and currency rates in Ukraine
+> Short project to compare situation with Coronavirus epidemy and currency rates in Ukraine
 
 ### Code
 
